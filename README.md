@@ -28,7 +28,9 @@
 [![Azure Machine Learning](https://img.shields.io/badge/Microsoft_Machine_Learning-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 </br>
 </br>
-
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [blog]: https://drdataanalysis.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UChJ77w5j15kyK6zYt1Kko7g
