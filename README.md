@@ -28,7 +28,7 @@
 [![Azure Machine Learning](https://img.shields.io/badge/Microsoft_Machine_Learning-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 </br>
 </br>
-### Blog posts
+### My Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Local Authority Shape Map in Power BI](https://drdataanalysis.blogspot.com/2021/03/local-authority-shape-map-in-power-bi.html)
 - [VADER and Power BI](https://drdataanalysis.blogspot.com/2021/03/vader-and-power-bi.html)
