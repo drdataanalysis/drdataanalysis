@@ -25,7 +25,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/azure%20dev%20ops-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
-[![Azure Machine Learning](https://img.shields.io/badge/Microsoft_Machine_Learning-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+[![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 </br>
 </br>
 ### My Recent Blog posts
