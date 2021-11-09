@@ -33,7 +33,7 @@
 - [Local Authority Shape Map in Power BI](https://drdataanalysis.blogspot.com/2021/03/local-authority-shape-map-in-power-bi.html)
 - [VADER and Power BI](https://drdataanalysis.blogspot.com/2021/03/vader-and-power-bi.html)
 - [TextBlob and Power BI](https://drdataanalysis.blogspot.com/2021/03/textblob-and-power-bi.html)
-- [Rapid Automatic Keyword Extraction (RAKE) in Power BI](https://drdataanalysis.blogspot.com/2021/02/rapid-automatic-keyword-extraction-rake.html)
+- [Rapid Automatic Keyword Extraction &lpar;RAKE&rpar; in Power BI](https://drdataanalysis.blogspot.com/2021/02/rapid-automatic-keyword-extraction-rake.html)
 - [Natural Language Processing in Power BI](https://drdataanalysis.blogspot.com/2021/02/natural-language-processing-in-power-bi.html)
 <!-- BLOG-POST-LIST:END -->
 
