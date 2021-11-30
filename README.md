@@ -1,5 +1,5 @@
 ## Hi there, I'm Dean👋
-### I'm a Data Analyst and Enthusiastic Amature Data Scientist
+### I'm an experienced Data Analyst and aspiring Data Scientist
 - 🛠 I am working on improving my Python in Power BI content
 - 🌱 I’m currently learning [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 - 👯 I’m looking to collaborate with other content creators
